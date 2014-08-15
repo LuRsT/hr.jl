@@ -1,4 +1,4 @@
 hr.jl
 =====
 
-`&lt;hr />` for your terminal (written in Julia)
+`<hr />` for your terminal (written in Julia)
